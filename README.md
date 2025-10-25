@@ -7,9 +7,18 @@
 <p align="center"><em>“I know kung fu.” — Neo<br>
 Image © Warner Bros. Pictures, used under fair use for educational and thematic purposes.</em></p>
 
-Welcome to the dojo...
+🥋 **Welcome to the dojo.**
 
-This is your sparring ground for mastering AI-powered transformation with Microsoft technologies—Copilot Studio, Azure AI Foundry, Agent Framework, Power Platform, and Modern Work. Whether you're a partner, customer, or curious strategist, this repo is your plug-in point to accelerated learning.
+> _“I know kung fu.” — Neo_
+
+This repository is named after that iconic moment—not because we teach martial arts, but because we believe in what it represents: the instant transfer of skill, knowledge, and capability. That’s what AI agents do. That’s what this repo helps you unlock.
+
+Whether you're a Microsoft partner, customer, trainer, or simply #EternallyCurious, this is your plug-in point to accelerated learning. Inside, you’ll find modular resources to help you master Copilot Studio, Azure AI Foundry, Agent Framework, Power Platform, and Modern Work—through demos, playbooks, and thematic training modules.
+
+> _“What are you waiting for?” — Morpheus_
+
+Start with [`training-modules/`](training-modules/) to begin your journey.
+
 
 > “I know kung fu.” — Neo  
 > Now you can too.
