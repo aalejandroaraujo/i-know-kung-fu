@@ -14,3 +14,8 @@ This folder contains hands-on demos, templates, and walkthroughs designed to sho
 - Industry-specific Copilot scenarios
 
 Feel free to fork and remix these demos to fit your audience or vertical.
+
+---
+
+🧠 Maintained and curated with care by [Alejandro Araujo](https://www.linkedin.com/in/a2araujo)  
+🏷️ #EternallyCurious
