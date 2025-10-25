@@ -10,3 +10,8 @@ This folder curates valuable links to Microsoft communities, learning hubs, and 
 - Recommended blogs and videos
 
 Use these links to stay connected, upskill, and engage with the broader ecosystem.
+
+---
+
+🧠 Maintained and curated with care by [Alejandro Araujo](https://www.linkedin.com/in/a2araujo)  
+🏷️ #EternallyCurious
