@@ -1,4 +1,4 @@
-# 🧭 Onboarding Guide
+# 🧭 Agent ACademy Onboarding Guide
 
 Welcome, recruit. You’ve entered the dojo of Microsoft Copilot Studio—where declarative agents, adaptive cards, and orchestration flows await. This guide is your sparring partner, helping you dodge blockers and master deployment.
 
@@ -22,6 +22,11 @@ Image © Microsoft, used under fair use for educational and thematic purposes.</
 - 🔌 Plug into [Agent Academy](https://microsoft.github.io/agent-academy/recruit/)
 - 🧾 Bookmark your session notes and screenshots
 - 🧠 Adopt the #EternallyCurious mindset—this isn’t just about building agents, it’s about understanding the architecture of intelligence
+
+---
+
+## 🧠 Alejandro’s Field Notes
+See [`agent-academy-field-notes.md`](agent-academy-field-notes.md) for real-time insights and deployment anomalies.
 
 ---
 
