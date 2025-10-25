@@ -19,9 +19,10 @@ Whether you're a Microsoft partner, customer, trainer, or simply #EternallyCurio
 
 Start with [`training-modules/`](training-modules/) to begin your journey.
 
+---
 
-> “I know kung fu.” — Neo  
-> Now you can too.
+> This is where your “I know kung fu” moment begins.
+
 
 ---
 
