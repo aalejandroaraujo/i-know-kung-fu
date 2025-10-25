@@ -33,13 +33,14 @@ This repository equips Microsoft partners and customers with:
 |--------|-------------|
 | `assets/` | Images, logos, branding visuals (e.g., Neo_plugged.jpg) |
 | `docs/` | Markdown guides, onboarding instructions, architecture diagrams |
-| `training-modules/` | Slide decks, session outlines, recordings <br>👉 Recommended starting point for new learners  |
+| `training-modules/` | Slide decks, session outlines, recordings ** |
 | `copilot-demos/` | Templates, walkthroughs, mock data |
 | `partner-resources/` | Battlecards, competitive positioning |
 | `customer-playbooks/` | Adoption strategies, onboarding flows |
 | `multilingual-assets/` | Translated materials |
 | `community-links/` | Forums, blogs, videos |
 
+> 🥋 First time here? Begin your journey in [`training-modules/`](training-modules/)
 ---
 
 ## 🧠 Who This Is For
