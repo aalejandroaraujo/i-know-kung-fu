@@ -1,4 +1,4 @@
-# 🧭 Agent ACademy Onboarding Guide
+# 🧭 Agent Academy Onboarding Guide
 
 Welcome, recruit. You’ve entered the dojo of Microsoft Copilot Studio—where declarative agents, adaptive cards, and orchestration flows await. This guide is your sparring partner, helping you dodge blockers and master deployment.
 
