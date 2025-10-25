@@ -12,7 +12,7 @@ A curated walkthrough of the Agent Academy experience, infused with real-world i
   <img src="../assets/mcs-agent-academy-recruit-banner.png" alt="Copilot Studio Agent Academy Banner" width="800"/>
 </p>
 
-<p align="center"><em>“Plug in. Learn fast.” — Agent Academy<br>
+<p align="center"><em>“Plug in. Learn fast.” — Agent Academy (allegedly...)<br>
 Image © Microsoft, used under fair use for educational and thematic purposes.</em></p>
 
 ---
