@@ -1,6 +1,6 @@
 # 🧠 Docs
 <p align="center">
-  <img src="assets/Neo-and-the-architect.jpg" alt="Neo meets the Matrix architect" width="600"/>
+  <img src="assets/Neo-and-the-architect.png" alt="Neo meets the Matrix architect" width="600"/>
 </p>
 
 <p align="center"><em>“You are the eventuality of an anomaly…” — The Architect<br>
