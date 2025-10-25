@@ -11,7 +11,7 @@ Image © Warner Bros. Pictures, used under fair use for educational and thematic
 
 > _“I know kung fu.” — Neo_
 
-This repository is named after that iconic moment—not because we teach martial arts, but because we believe in what it represents: the instant transfer of skill, knowledge, and capability. That’s what AI agents do. That’s what this repo helps you unlock.
+This repository is named after that iconic moment—not because we teach martial arts, but because of what it symbolizes: the instant transfer of skill, knowledge, and capability. That’s the promise of AI agents. That’s what this repo helps you unlock.
 
 Whether you're a Microsoft partner, customer, trainer, or simply #EternallyCurious, this is your plug-in point to accelerated learning. Inside, you’ll find modular resources to help you master Copilot Studio, Azure AI Foundry, Agent Framework, Power Platform, and Modern Work—through demos, playbooks, and thematic training modules.
 
@@ -22,6 +22,7 @@ Start with [`training-modules/`](training-modules/) to begin your journey.
 ---
 
 > This is where your “I know kung fu” moment begins.
+
 
 
 ---
