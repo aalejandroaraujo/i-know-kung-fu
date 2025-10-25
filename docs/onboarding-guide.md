@@ -8,6 +8,13 @@ Welcome, recruit. You’ve entered the dojo of Microsoft Copilot Studio—where 
 
 A curated walkthrough of the Agent Academy experience, infused with real-world insights from hands-on sessions. It’s not just a guide—it’s a decoder ring for what learners *actually* struggle with.
 
+<p align="center">
+  <img src="../assets/mcs-agent-academy-recruit-banner.png" alt="Copilot Studio Agent Academy Banner" width="800"/>
+</p>
+
+<p align="center"><em>“Plug in. Learn fast.” — Agent Academy<br>
+Image © Microsoft, used under fair use for educational and thematic purposes.</em></p>
+
 ---
 
 ## 🧠 Before You Begin
