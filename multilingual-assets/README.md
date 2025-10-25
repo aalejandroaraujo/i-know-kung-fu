@@ -10,3 +10,8 @@ This folder contains translated materials to support global enablement across di
 - 🇯🇵 Japanese (coming soon)
 
 Each subfolder includes localized decks, demo scripts, and playbooks. Contributions welcome to expand language support.
+
+---
+
+🧠 Maintained and curated with care by [Alejandro Araujo](https://www.linkedin.com/in/a2araujo)  
+🏷️ #EternallyCurious
