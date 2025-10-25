@@ -60,8 +60,6 @@ This dojo is open to all who seek mastery.
 
 ## 📬 Contact
 
----
-
 🧠 Maintained and curated with care by [Alejandro Araujo](https://www.linkedin.com/in/a2araujo)  
 💬 For feedback, sparring, or collaboration, open an issue or connect via LinkedIn.  
 🏷️ #EternallyCurious
