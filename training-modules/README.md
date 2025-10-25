@@ -22,12 +22,9 @@ Each module includes:
 
 ## 🧭 Navigation
 
-Modules are organized by theme:
-- `01-copilot-studio-basics/`
-- `02-agent-framework-deep-dive/`
-- `03-power-platform-integration/`
-- `04-modern-work-scenarios/`
-- `05-ai-foundry-accelerators/`
+Modules are organized by theme. More will be added as the dojo expands.
+
+agent-academy/ → Onboarding guide and field notes from Alejandro’s journey through Microsoft’s Copilot Studio Agent Academy.
 
 Each folder contains a `README.md` with instructions and context.
 
