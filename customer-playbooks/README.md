@@ -9,3 +9,8 @@ This folder provides strategic guidance for customers adopting Microsoft AI and 
 - Executive briefing templates
 
 Use these playbooks to accelerate value realization and ensure sustainable transformation across departments.
+
+---
+
+🧠 Maintained and curated with care by [Alejandro Araujo](https://www.linkedin.com/in/a2araujo)  
+🏷️ #EternallyCurious
