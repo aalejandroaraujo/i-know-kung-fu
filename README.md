@@ -1,6 +1,13 @@
 # 🥋 I Know Kung Fu
 
-Welcome to the dojo.
+Welcome to the dojo...
+
+<p align="center">
+  <img src="https://i.ytimg.com/vi/e9aSRrR2vqM/maxresdefault.jpg" alt="Neo learns Kung Fu" width="600"/>
+</p>
+
+<p align="center"><em>“I know kung fu.” — Neo<br>
+Image © Warner Bros. Pictures, used under fair use for educational and thematic purposes.</em></p>
 
 This is your sparring ground for mastering AI-powered transformation with Microsoft technologies—Copilot Studio, Azure AI Foundry, Agent Framework, Power Platform, and Modern Work. Whether you're a partner, customer, or curious strategist, this repo is your plug-in point to accelerated learning.
 
