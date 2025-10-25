@@ -9,3 +9,8 @@ This folder equips Microsoft partners with enablement tools to drive adoption, d
 - Co-sell and GTM frameworks
 
 These resources are designed to support partner-led engagements and empower solution selling with confidence.
+
+---
+
+🧠 Maintained and curated with care by [Alejandro Araujo](https://www.linkedin.com/in/a2araujo)  
+🏷️ #EternallyCurious
