@@ -48,6 +48,7 @@ This dojo grows stronger with every new sparring partner.
 
 ---
 
-## 📬 Questions?
-
-Open an issue or connect with [Alejandro Araujo](https://www.linkedin.com/in/albertoalejandroaraujo/) for feedback, collaboration, or training requests.
+## 📬 Questions?  
+Open an issue or connect with [Alejandro Araujo](https://www.linkedin.com/in/a2araujo) for feedback, sparring, or training requests.  
+🥋 This dojo is always open.  
+🏷️ #EternallyCurious
