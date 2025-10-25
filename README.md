@@ -40,7 +40,9 @@ This repository equips Microsoft partners and customers with:
 | `multilingual-assets/` | Translated materials |
 | `community-links/` | Forums, blogs, videos |
 
-> 🥋 First time here? Begin your journey in [`training-modules/`](training-modules/)
+> 🥋 **First time here? Begin your journey in [`training-modules/`](training-modules/)**  
+> It’s where the onboarding guides, field notes, and learning modules live.
+
 ---
 
 ## 🧠 Who This Is For
